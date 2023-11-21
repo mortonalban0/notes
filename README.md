@@ -24,3 +24,8 @@ This quote highlights the ongoing challenge that programmers face in creating so
 At the same time, the complexity of software systems continues to grow, making it increasingly difficult to anticipate and prevent all possible issues. This is where the "race" between programmers and the universe comes in – as programmers work to create more advanced and sophisticated software, the universe (in the form of users) continues to find new ways to break or misuse it.
 
 Ultimately, successful programming requires a combination of technical skill, creativity, and an understanding of human behavior. By staying attuned to the needs and limitations of users, programmers can create software that is both powerful and user-friendly, and stay one step ahead in the race against the universe.
+
+# 2023-11-21
+- Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. This involves staying up-to-date with the latest programming languages, tools, and techniques. By constantly educating yourself and improving your skills, you can become a valuable asset to any team or project.
+
+To achieve this, it is essential to develop a growth mindset and be open to learning from both successes and failures. Embrace the challenges that come with learning new things, as these experiences will help you grow as a programmer. Additionally, building a strong foundation in core programming concepts, such as data structures, algorithms, software engineering, etc., will give you a competitive edge in the industry.
