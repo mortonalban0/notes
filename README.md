@@ -43,3 +43,10 @@ This quote, often attributed to Martin Golding, emphasizes the importance of wri
 
 Second, planning ahead is crucial. Think about the bigger picture and what needs to happen to achieve your goals. Break down your project into smaller, manageable tasks. Then, allocate time for each task and make sure you have the resources needed to complete them. Planning ahead will prevent you from getting stuck or running out of time. 
  （105个字符）
+
+# 2023-11-25
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By giving priority to the critical tasks first, you can ensure that your project stays on track and meets its deadlines. Use task management tools, such as Trello or Asana, to help organize and prioritize your tasks. 
+ 2. Plan ahead: Planning is crucial for any project. When starting a new project or working with a team, make sure to have a clear understanding of the goals, timeline, resources,and expectations. Creating a detailed plan will ensure there are no surprises and that everyone is on the same page. Break down the project into smaller tasks and set milestones for each stage to keep everything organized and moving forward.  
+3. Stay organized: As a programmer, maintaining a clean and organized codebase is vital for efficiency and maintainability. Follow best practices for version control, using tools suchas Git, as well as using well-structured code with appropriate comments and documentation. Organizing your workspaces, files, libraries, modules, etc., will make it easier to find and work with the code you need. Additionally, keeping your environment set up for ease of use and testing will save time and reduce errors.
