@@ -56,3 +56,6 @@ Second, planning ahead is crucial. Think about the bigger picture and what needs
 
 # 2023-11-27
 - "Keep it simple, stupid!"
+
+# 2023-11-28
+- "Keep it simple, stupid!"
