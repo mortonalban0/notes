@@ -64,3 +64,8 @@ Second, planning ahead is crucial. Think about the bigger picture and what needs
 - "Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning." - Rick Cook
 
 This quote highlights the ongoing challenge for programmers to create user-friendly and robust software, while acknowledging the ever-present possibility of unexpected user behavior or errors. It also serves as a reminder to continually improve our skills and adapt to the changing landscape of technology.
+
+# 2023-11-30
+- "Programming wisdom for today: Always write code as if the person who will maintain it is a violent psychopath who knows where you live." 
+
+This quote emphasizes the importance of writing clean, understandable, and well-documented code. It's not just about making your own life easier when you have to go back and make changes later on – it's also about making sure that anyone else who has to work with your code (including future versions of yourself) can do so easily and without wanting to strangle you. By keeping this in mind, you can save yourself and others a lot of time, frustration, and potential danger.
