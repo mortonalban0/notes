@@ -109,3 +109,8 @@ This quote reminds us that optimizing code too early in the development process 
 
 # 2023-12-12
 - Today's programming wisdom is to write code that is simple, readable, and maintainable. It's easy to get caught up in trying to create complex solutions to problems, but often the best solution is the simplest one. Writing code that is easy to understand and modify will save time and headaches in the long run. Additionally, it's important to remember that code is read much more often than it is written, so taking the time to make it clear and concise will benefit both yourself and others who may work with your code in the future.
+
+# 2023-12-13
+- Today's programming wisdom is: "Premature optimization is the root of all evil." - Donald Knuth. 
+
+This quote reminds us that optimizing code before it's necessary can lead to overly complex and difficult-to-maintain code. It's important to write clear, understandable code first and optimize only when necessary.
