@@ -137,3 +137,10 @@ Optimizing code before it's necessary can lead to overly complex and difficult-t
 
 Another important aspect of programming is understanding the basics of the language or framework you're using. Mastering the fundamentals allows you to be more efficient and productive, as well as better equipped to troubleshoot and solve problems. It also makes it easier to learn new technologies and adapt to new programming environments. 
  -- 213 words
+
+# 2023-12-20
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+1. Prioritize tasks: When you are working on a project, it is essential to determine which tasks are the most important and which can be completed later. By prioritizing your tasks in this way, you can ensure that you focus on the critical aspects of the project first, which will lead to a more successful outcome. 
+2. Plan ahead: Planning is crucial in programming. Before starting a new project or task, take some time to think through the steps involved and create a plan.This will ensure you have a clear understanding of what needs to happen and when, allowing youto stay on track and avoid getting lost in the code.  
+3. Stay organized: A well-organized codebase is a happy code base. Make sure to use version control systems like Git to track your changes and organize your files. Additionally, using well structured code and following coding conventions will make it easier for you and others to navigate and maintain your code in future.
