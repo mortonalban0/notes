@@ -322,3 +322,6 @@ To achieve this, it'll be essential to develop a growth mindset. View mistakes a
 
 # 2024-01-27
 - "Keep it simple, stupid!"
+
+# 2024-01-28
+- "Keep it simple, stupid!"
