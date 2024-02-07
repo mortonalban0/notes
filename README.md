@@ -369,3 +369,6 @@ In essence, the essence of today's programming wisdom lies in keeping things sim
 
 To be successful as a programmer, you should also have a deep understanding of computer science principles, such as data structures, algorithms, software engineering, systems architecture, etc. These principles will help you design and develop efficient, scalable, maintainable, secure, testable software systems. Additionally, learning to communicate effectively with non-technical team members is also essential as it helps to bridge the gap between the developer and the rest of the project team. 
  - 来自NLP
+
+# 2024-02-07
+- "Keep it simple, stupid!"
