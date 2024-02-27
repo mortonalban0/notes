@@ -464,3 +464,8 @@ Use version control systems, such as Git, to keep track of your code and collabo
 
 # 2024-02-26
 - "Keep it simple, stupid!"
+
+# 2024-02-27
+- "Today's programming wisdom: 'Premature optimization is the root of all evil' — Donald Knuth. Focus on writing clear, maintainable code first; optimize only when necessary and after profiling. Remember that simplicity, readability, and correctness are often more crucial than micro-optimizations. Also, 'Code is read much more often than it is written', emphasizing the importance of writing code with readability in mind for your future self and others." 
+
+"In addition, 'Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.' – Brian W. Kernighan. This highlights the value of keeping code straightforward and avoiding unnecessary complexity, which can lead to fewer bugs and easier debugging sessions."
