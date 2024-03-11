@@ -518,3 +518,6 @@ Another pearl of wisdom is: 'Premature optimization is the root of all evil.' â€
  2. Plan ahead: Planning ahead is crucial for success in programming. Before starting a new project or undertaking a large task, take the time to research, design,and outline your approach. Creating a detailed plan will ensure you have all the information and resources you need to complete the task successfully. Additionally, planning ahead can help prevent last-minute surprises and delays.  
 3. Stay organized: Keeping your code, project files, notes, research materials, etc. organized is a must for any programmer. Using version control systems, like Git, can significantly improve your organization and collaboration with team members. Organizing code well also makes it easier to find and fix errors, add new features, or maintain the code over time.   
 4. Learn continuously: Programming is an ever-evolving field, which means you must constantly learn new skills and techniques to stay competitive. Dedicate time each week to read blogs, watch tutorials, attend workshops,or participate in online communities to learn about the latest developments in coding. Not only will this help improveyour skills, but it will also keep you engaged and excited about your work.
+
+# 2024-03-11
+- "Keep it simple, stupid!"
